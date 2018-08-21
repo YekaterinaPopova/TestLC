@@ -1,1 +1,12 @@
-https://testbase.atlassian.net/wiki/spaces/TEST/pages/create?draftId=751862302&draftShareId=b2a15512-3c86-4e62-9de8-60a042ce24c5&
+При удалении нескольких файлов, один не удаляется - https://testbase.atlassian.net/browse/TEST-386
+Можно добавить один и тот же файл для копирования - https://testbase.atlassian.net/browse/TEST-387
+Зависает программа, если директория файла = директории назначения - https://testbase.atlassian.net/browse/TEST-388
+Нет сообщения о том, что выбрана несуществующая директория - https://testbase.atlassian.net/browse/TEST-389
+Заменяется файл, если в папке уже лежит файл с таким же именем - https://testbase.atlassian.net/browse/TEST-390
+Нет предупреждения при выборе для копирования 2 файлов с одинаковым именем - https://testbase.atlassian.net/browse/TEST-391
+Нет сообщения о том, что не выбран ни один файл для копирования - https://testbase.atlassian.net/browse/TEST-392
+Нет сообщение о том, что выбранный файл не существует - https://testbase.atlassian.net/browse/TEST-393
+Нет сообщения о том, что не выбраны файлы для копирования - https://testbase.atlassian.net/browse/TEST-394
+Кнопки разных размеров - https://testbase.atlassian.net/browse/TEST-395
+Некорректное наименование кнопки и лукапа "Выбрать папку, куда писать файлы" - https://testbase.atlassian.net/browse/TEST-396
+Некорректное наименование кнопок "Начать грузить" и "Остановить грузить" -https://testbase.atlassian.net/browse/TEST-397
